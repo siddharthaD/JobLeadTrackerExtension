@@ -4,3 +4,9 @@
 node_modules
 dist
 .cache
+/.editorconfig
+/.idea/JobLeadTracker.iml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/site.webmanifest
+/.idea/vcs.xml
